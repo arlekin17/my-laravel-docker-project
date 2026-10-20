@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+README.md
+docker-compose.yml
+deploy/
+node_modules
+vendor
