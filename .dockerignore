@@ -5,4 +5,8 @@ README.md
 docker-compose.yml
 deploy/
 node_modules
-vendor
+src/vendor
+src/node_modules
+src/storage/logs/*
+src/tests
+src/.env
